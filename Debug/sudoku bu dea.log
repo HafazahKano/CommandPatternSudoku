@@ -1,0 +1,8 @@
+﻿  Board.cpp
+C:\Users\SOEKAMTO\Desktop\sudoku bu dea\Board.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FillArena.cpp
+C:\Users\SOEKAMTO\Desktop\sudoku bu dea\fillArena.h(36,1): fatal error C1070: mismatched #if/#endif pair in file 'C:\Users\SOEKAMTO\Desktop\sudoku bu dea\fillArena.h'
+  Player.cpp
+  sudoku.cpp
+C:\Users\SOEKAMTO\Desktop\sudoku bu dea\fillArena.h(36,1): fatal error C1070: mismatched #if/#endif pair in file 'C:\Users\SOEKAMTO\Desktop\sudoku bu dea\fillArena.h'
+  Generating Code...
